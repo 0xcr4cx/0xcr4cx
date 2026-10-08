@@ -4,7 +4,7 @@
 <a href="https://tryhackme.com/p/cr4cx"><img src="https://img.shields.io/badge/-tryhackme-000000?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
 
 
-MSc Cyber Security @ Heriot-Watt | Aspiring Tier 1 SOC Analyst | Splunk · Suricata · Active Directory · Security+.
+MSc Cyber Security @ Heriot-Watt | Aspiring Tier 1 SOC Analyst | Splunk · Suricata · Active Directory · Security+
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
